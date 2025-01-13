@@ -10,4 +10,5 @@
   * [生成乐谱](zh-cn/sheetToPDF.md)
   * [开发者功能](zh-cn/developer.md)
 
+- [目前已有的谱子](zh-cn/music_list.md)
 - [更新日志](zh-cn/update_log.md)
