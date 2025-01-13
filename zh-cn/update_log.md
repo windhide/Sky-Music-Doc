@@ -1,3 +1,7 @@
+## v2.0.6
+> [下载地址](https://github.com/windhide/SkyMusicPlay-for-Windows/releases/download/v2.0.6/sky-music_setup-2.0.6.exe)
+- 🐛 修复兼容模式下的问题
+
 ## v2.0.5
 > [下载地址](https://github.com/windhide/SkyMusicPlay-for-Windows/releases/download/v2.0.5/sky-music_setup-2.0.5.exe)
 - 🐛 修复潜在的问题
