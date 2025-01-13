@@ -8,7 +8,7 @@
 
 
 
-<img src="https://s1.imagehub.cc/images/2025/01/13/47f2e793dc71cd0719575340939d814b.png" style="width:50%;height:auto;">
+<img src="https://s1.imagehub.cc/images/2025/01/13/47f2e793dc71cd0719575340939d814b.png">
 
 > 如果您觉得好用可以赏我一杯`咖啡☕`
 

@@ -26,27 +26,17 @@
       href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-defaults.css"
       disabled
     />
-    <link
+    <link 
       rel="stylesheet"
-      data-style-group="themeable"
-      media="(prefers-color-scheme: dark)"
-      href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css"
+      href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css"
+      title="docsify-darklight-theme"
+      type="text/css"
     />
-    <link
-      rel="stylesheet"
-      data-style-group="themeable"
-      media="(prefers-color-scheme: light)"
-      href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css"
-    />
-    <link rel="stylesheet" href="assets/css/main.css" />
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag() {
-        dataLayer.push(arguments);
+    <style>
+      nav.app-nav li ul {
+        min-width: 100px;
       }
-      gtag('js', new Date());
-      gtag('config', 'G-9LYZ7R080K');
-    </script>
+  </style>
   </head>
 
   <body>
@@ -63,24 +53,22 @@
         homepage: 'zh-cn/main.md',
         loadSidebar: '_sidebar.md',
         auto2top: true,
+        executeScript: true,
+        loadSidebar: true,
+        loadNavbar: true,
         maxLevel: 2,
         subMaxLevel: 2,
       };
     </script>
-    <script src="assets/js/main.js"></script>
-
-    <!-- Docsify current release  -->
-    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/external-script.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
-
-    <!-- Plugins -->
-    <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/docsify-plugin-ethicalads@1"></script>
-    <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1/dist/docsify-tabs.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@2/dist/docsify-copy-code.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/docsify-pagination@2/dist/docsify-pagination.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+      <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+      <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+      <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-bash.min.js"></script>
+      <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-markdown.min.js"></script>
+      <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-nginx.min.js"></script>
+      <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+      <script 
+        src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"
+        type="text/javascript">
+      </script>
   </body>
 </html>
