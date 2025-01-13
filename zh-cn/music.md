@@ -21,7 +21,7 @@
 !> `双击`即可`开始播放`
 
 
-<img src="/images/music.png" style="width:30%;height:auto;">
+<img src="https://s1.imagehub.cc/images/2025/01/13/c7022c50c5a17090f80c55037c578379.png" style="width:30%;height:auto;">
 
 ## 收藏功能
 ?> 点击`❤`歌曲会进入收藏
@@ -30,13 +30,13 @@
 `单击`歌曲是添加到歌单列表当中
 <br />`查看歌单`点这里
 <br />
-![alt text](../images/musicList.png)
+![alt text](https://s1.imagehub.cc/images/2025/01/13/5056e9602e15189ed289bf58fb671897.png)
 
 ## 切换模式
-<img src="/images/playMode.png" style="width:10%;height:auto;">
+<img src="https://s1.imagehub.cc/images/2025/01/13/792650c2ad32234db013086cc23d3bea.png" style="width:10%;height:auto;">
 
 ## 上传自己的谱子
-<img src="/images/upload.png">
+<img src="https://s1.imagehub.cc/images/2025/01/13/8ae15c9ca38e89f9d277a2b58538a67f.png">
 
 !> 目前支持的谱格式为`.txt`
 <br />
