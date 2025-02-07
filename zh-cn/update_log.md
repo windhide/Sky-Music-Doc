@@ -1,5 +1,5 @@
 ## v2.2.1
-> [下载地址](https://github.com/windhide/SkyMusicPlay-for-Windows/releases/download/v2.2.1/sky-music_setup-2.2.1.exe)
+> [下载地址](https://github.com/windhide/SkyMusicPlay-for-Windows/releases/download/v2.2.1/sky-music-web-2.2.1-setup.exe)
 
 🏠 首页优化
 - 📝 首页错误文本更正
@@ -18,7 +18,7 @@
 
 
 ## v2.2.0
-> [下载地址](https://github.com/windhide/SkyMusicPlay-for-Windows/releases/download/v2.2.0/sky-music_setup-2.2.0.exe)
+> [下载地址](https://github.com/windhide/SkyMusicPlay-for-Windows/releases/download/v2.2.0/sky-music-web-2.2.0-setup.exe)
 
 🍉 功能优化
 - 🍉 优化开发者功能
