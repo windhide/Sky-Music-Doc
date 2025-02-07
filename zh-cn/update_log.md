@@ -58,7 +58,7 @@
 - 🗑️ 摘除114514提示
 
 ## v2.1.0
-> [下载地址](https://github.com/windhide/SkyMusicPlay-for-Windows/releases/download/v2.1.0/sky-music_setup-2.1.0.exe)
+> [下载地址](https://github.com/windhide/SkyMusicPlay-for-Windows/releases/download/v2.1.0/sky-music-web-2.1.0-setup.exe)
 - 🎥 builder update，移除ffmpeg
 - 🎵 修复切歌的部分问题
 - 🎼 转谱模型变更
@@ -71,11 +71,11 @@
 - 🎵 新增44首歌
 
 ## v2.0.6
-> [下载地址](https://github.com/windhide/SkyMusicPlay-for-Windows/releases/download/v2.0.6/sky-music_setup-2.0.6.exe)
+> [下载地址](https://github.com/windhide/SkyMusicPlay-for-Windows/releases/download/v2.0.6/sky-music-web-2.0.6-setup.exe)
 - 🐛 修复兼容模式下的问题
 
 ## v2.0.5
-> [下载地址](https://github.com/windhide/SkyMusicPlay-for-Windows/releases/download/v2.0.5/sky-music_setup-2.0.5.exe)
+> [下载地址](https://github.com/windhide/SkyMusicPlay-for-Windows/releases/download/v2.0.5/sky-music-web-2.0.5-setup.exe)
 - 🐛 修复潜在的问题
 - 🌐 修复国服光遇窗口获取问题
 - 🎵 修复国际服无法后台播放的问题
@@ -85,7 +85,7 @@
 - 📀 新增 1972 首歌曲
 
 ## v2.0.3
-> [下载地址](https://github.com/windhide/SkyMusicPlay-for-Windows/releases/download/v2.0.3/sky-music_setup-2.0.3.exe)
+> [下载地址](https://github.com/windhide/SkyMusicPlay-for-Windows/releases/download/v2.0.3/sky-music-web-2.0.3-setup.exe)
 - 🛠 添加兼容模式适配模拟器
 - 🔄 按键添加兼容模式切换功能（兼容模式模拟器可用）
 - 🎵 添加两种演奏模式按钮（差异比较小）
@@ -96,7 +96,7 @@
 - 🚫 自动点火功能关闭（测试完才会开放
 
 ## v2.0.2
-> [下载地址](https://github.com/windhide/SkyMusicPlay-for-Windows/releases/download/v2.0.2/sky-music_setup-2.0.2.exe)
+> [下载地址](https://github.com/windhide/SkyMusicPlay-for-Windows/releases/download/v2.0.2/sky-music-web-2.0.2-setup.exe)
 - 🎨 界面配色样式调整
 - 🛠️ 开发者自定义功能开放
 - 🎵 修复播放歌曲名的问题，修复下一首功能奇奇怪怪的bug
