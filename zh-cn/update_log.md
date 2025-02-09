@@ -1,3 +1,13 @@
+## v2.2.2
+> [下载地址](https://github.com/windhide/SkyMusicPlay-for-Windows/releases/download/v2.2.2/sky-music-web-2.2.2-setup.exe)
+
+🔥 自动点火优化
+- 🚀 自动点火模型优化
+- 🎯 提高自动点火置信度
+
+⏸️ 播放界面修复
+- 🛠️ 修复暂停按钮错误的位置
+
 ## v2.2.1
 > [下载地址](https://github.com/windhide/SkyMusicPlay-for-Windows/releases/download/v2.2.1/sky-music-web-2.2.1-setup.exe)
 
@@ -15,7 +25,6 @@
 ⚡ 性能 & 运行优化
 - 🚀 避免后台节流
 - 🛠️ 规避因跟弹子程序运行时间过长导致的错误
-
 
 ## v2.2.0
 > [下载地址](https://github.com/windhide/SkyMusicPlay-for-Windows/releases/download/v2.2.0/sky-music-web-2.2.0-setup.exe)
