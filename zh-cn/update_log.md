@@ -1,3 +1,9 @@
+## v2.2.3
+> [下载地址](https://github.com/windhide/SkyMusicPlay-for-Windows/releases/download/v2.2.3/sky-music-web-2.2.3-setup.exe)
+
+- 🛠️ 部分电脑句柄获取问题优化
+- 🍈修复收藏时重置表格的问题
+
 ## v2.2.2
 > [下载地址](https://github.com/windhide/SkyMusicPlay-for-Windows/releases/download/v2.2.2/sky-music-web-2.2.2-setup.exe)
 
