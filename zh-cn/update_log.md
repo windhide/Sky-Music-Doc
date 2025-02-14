@@ -1,3 +1,10 @@
+## v2.2.5
+> [下载地址](https://github.com/windhide/SkyMusicPlay-for-Windows/releases/download/v2.2.5/sky-music-web-2.2.5-setup.exe)
+
+- 🛠️ 开发者功能调整，添加资源文件入口，Q开放自定义按下数量
+- 📌添加当前播放歌曲的定位功能
+- 🐞修复转谱.mid、.m4a失效的问题
+
 ## v2.2.3
 > [下载地址](https://github.com/windhide/SkyMusicPlay-for-Windows/releases/download/v2.2.3/sky-music-web-2.2.3-setup.exe)
 
