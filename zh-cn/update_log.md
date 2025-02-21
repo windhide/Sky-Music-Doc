@@ -1,5 +1,5 @@
 ## v2.3.0
-> [下载地址](https://github.com/windhide/SkyMusicPlay-for-Windows/releases/download/v2.3.0/小星弹琴软件v2.3.0_x64_windows.exe)
+> [下载地址](https://github.com/windhide/SkyMusicPlay-for-Windows/releases/download/v2.3.0/v2.3.0_x64_windows.exe)
 
 - ⭐ 新增自定义快捷键功能
 - ⭐ 新增谱按键更改功能，允许适配更多游戏，但后台发送仅限光遇，其他游戏请用兼容模式
