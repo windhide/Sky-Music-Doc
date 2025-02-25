@@ -1,3 +1,9 @@
+## v2.3.1
+> [下载地址](https://github.com/windhide/SkyMusicPlay-for-Windows/releases/download/v2.3.1/v2.3.1_x64_windows.exe)
+
+- 🛠 跟弹按下不演奏问题修复
+- 🛠 转谱修复错误的范围映射
+
 ## v2.3.0
 > [下载地址](https://github.com/windhide/SkyMusicPlay-for-Windows/releases/download/v2.3.0/v2.3.0_x64_windows.exe)
 
