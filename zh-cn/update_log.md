@@ -1,3 +1,9 @@
+## v2.3.2
+> [下载地址](https://github.com/windhide/SkyMusicPlay-for-Windows/releases/download/v2.3.2/v2.3.2_x64_windows.exe)
+
+- ⭐ 转谱新增力度过滤、动态合并阈值范围划分配置、多范围转谱映射设置
+- ⭐ 添加界面透明度设置，背景颜色设置
+
 ## v2.3.1
 > [下载地址](https://github.com/windhide/SkyMusicPlay-for-Windows/releases/download/v2.3.1/v2.3.1_x64_windows.exe)
 
