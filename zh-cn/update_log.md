@@ -1,3 +1,12 @@
+## v2.3.3
+> [下载地址](https://github.com/windhide/SkyMusicPlay-for-Windows/releases/download/v2.3.3/v2.3.3_x64_windows.exe)
+
+- ⭐ 允许更改目标句柄
+- ⭐ 转谱添加单双键数开关
+- 🛠 适配国际服，自动点火摘除G，改为手动进入好友星盘后打开
+- 🛠 更改功能界面图标
+- 🛠 首页菜单功能分层
+
 ## v2.3.2
 > [下载地址](https://github.com/windhide/SkyMusicPlay-for-Windows/releases/download/v2.3.2/v2.3.2_x64_windows.exe)
 
