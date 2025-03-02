@@ -1,39 +1,39 @@
 ﻿# SkyMusicPlay-for-Windows
 
-# 小星弹琴软件
+<p align="center">
+  <a href="https://github.com/windhide/SkyMusicPlay-for-Windows"><img src="https://files.superbed.cc/store/images/7e/7a/67bfcd95d0e0a243d4067e7a.png" width="256" height="256" alt="SkyMusicPlay-for-Windows"></a>
+<h1 align = "center">星星弹琴软件</h1>
+<div align = "center">
+        <a href="https://docs.sayu-bot.com/" target="_blank">教程文档</a> &nbsp; · &nbsp;
+        <a href="https://windhide.netlify.app/#/zh-cn/simulator">模拟器问题</a> &nbsp; · &nbsp;
+        <a href="https://windhide.netlify.app/#/zh-cn/update_log">更新日志</a>&nbsp; · &nbsp;
+        <a href="https://github.com/windhide/SkyMusicPlay-for-Windows/releases">点我下载</a>
+</div>
 
-## 项目简介
+## 丨安装提醒
+>
+> **安装请`关闭杀毒软件`进行**
+>
+> 支持PC端，也支持模拟器端
+>
+> 🚧目前还在施工中，功能快速迭代中...🚧
+>
+>
+> ✨如果需要相关创意功能欢迎在issues中提出✨
+>
 
-小星弹琴软件是一款集多种功能于一体的音乐软件，支持演奏、转谱、谱转PDF、以及跟弹功能，欢迎进群唠嗑呀    [[点我加群]](https://qm.qq.com/q/45VZu0b5Xq)
+## 丨反馈渠道
 
-## 版权声明
+- QQ群号：[1007672060](https://qm.qq.com/q/VFnq60fugu)
+</details>
 
-本项目采用 [Creative Commons Attribution-NonCommercial (CC BY-NC) 许可协议](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans)。
-项目引用或代码引用请注明原作者出处，禁止商业用途
 
-## 项目开发环境
+## 丨项目开发环境
 
 - **Python**：3.11
-  
 - **Node**：16.20.2
-  
 
-## 功能特点
-
-- **演奏功能**：支持后台对窗口进行操作，无需将窗口置于前台即可正常运行。
-- **转谱功能**：通过模型文件实现MIDI转换并生成游戏乐谱，伴奏效果较为出色。
-- **PDF乐谱生成**：将乐谱生成PDF格式，便于详细查看按键内容。
-- **跟弹功能**：检测正确按键，方便用户自行练习并提升弹奏水平。
-
-## 安装步骤
-
-在项目的[Release页面](https://github.com/windhide/SkyMusicPlay-for-Windows/releases)中找到安装包并下载。具体安装步骤请参考该页面的说明。
-
-## 使用指南
-
-[[使用教程]](https://windhide.netlify.app)
-
-## 技术栈
+## 丨技术栈
 
 - **Electron**
 - **TypeScript**
@@ -43,15 +43,16 @@
 - **YOLO**
 - **WebSocket**
 
-## 联系方式
-如有任何问题或建议，欢迎通过以下方式与我联系：
-邮箱：[WindHide520@gmail.com]
-GitHub：[https://github.com/windhide]
+## 丨其他
+-  项目引用或代码引用请注明原作者出处，禁止商业用途
+-  [Creative Commons Attribution-NonCommercial (CC BY-NC) 许可协议](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans)
 
-## 感谢
 
-感谢以下开源项目的支持：
+## 丨联系方式
+- 如有任何问题或建议，欢迎通过以下方式与我联系：
+- [Email](mailto:WindHide520@gmail.com)
+- [GitHub](https://github.com/windhide)
 
-- [MID转换思路](https://github.com/azuwis/pianotrans)
-- [最终使用模型插件](https://github.com/spotify/basic-pitch)
-- [音乐伴奏人声分离](https://github.com/facebookresearch/demucs)
+## 致谢
+- [pianotrans](https://github.com/azuwis/pianotrans) 音乐转钢琴谱
+- [basic-pitch](https://github.com/spotify/) 音乐转MIDI
