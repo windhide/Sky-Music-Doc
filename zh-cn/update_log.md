@@ -1,3 +1,9 @@
+## v2.3.5
+> [下载地址](https://github.com/windhide/SkyMusicPlay-for-Windows/releases/download/v2.3.5/v2.3.5_x64_windows.exe)
+
+- ⭐ 转谱添加半全音、超Key功能开关
+- ⭐ 新增歌曲 32首
+
 ## v2.3.3
 > [下载地址](https://github.com/windhide/SkyMusicPlay-for-Windows/releases/download/v2.3.3/v2.3.3_x64_windows.exe)
 
